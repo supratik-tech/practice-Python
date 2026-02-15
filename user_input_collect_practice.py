@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # name= input("Enter your name:")
 # print("Welcome",name)
 # name = input("Enter your age ")
@@ -11,18 +10,4 @@ marks = float(input("Enter your total persantage "))
 print(name)
 print(age)
 print(marks)
-=======
-# name= input("Enter your name:")
-# print("Welcome",name)
-# name = input("Enter your age ")
-# print(" You entered ", name )
-# val =float(input(" Stranger things fav character :"))
-# print(type(val),val)
-name = input("Enter your name :")
-age = int(input("Enter your age :"))
-marks = float(input("Enter your total persantage "))
-print(name)
-print(age)
-print(marks)
->>>>>>> 86bb051aa7632ec54631f987f02a2aa4caf44731
 print("Thank you sir ")
