@@ -1,0 +1,16 @@
+# SET = set()
+# SET.add(1)
+# SET.add(2)
+# SET.add(2)
+# SET.add(3)
+# SET.remove(2)
+# SET.add((1,2,3,"hello"))
+# SET.clear()
+# print(SET)
+# print(len(SET))
+# print(type(SET))
+
+# print(SET)
+collection = {"Supratik","Anuska","Nayak","Mondal"}
+collection.pop()
+print(collection)

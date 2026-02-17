@@ -1,9 +1,10 @@
-colour = input("Write the traffic signal colour =")
-if colour == "red":
-    print("Stop")
-elif colour =="Yellow":
-    print("Look and get ready to move")
-elif colour == "Green":
-    print("run")
+
+colour = input("Write the traffic colour=")
+if colour == "Red" or colour == "red":
+        print("Stop")
+elif colour == "Green" or colour== "green":
+        print("Run")
+elif colour == "Yellow" or colour == "yellow":
+        print("Get ready ")
 else:
-    print("Invalid colour")
+         print("Colour is invalid")
