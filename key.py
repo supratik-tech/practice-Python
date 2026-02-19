@@ -4,7 +4,7 @@
 student = {
     "name": "Supratik",
     "age": "19",
-    "subject": {
+    "subject": {                # nested dictionary
         "Chemistry" : "94",
         "English" : "90",
     }
