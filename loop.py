@@ -20,8 +20,8 @@
 
 
 
-# k = int(input("Enter the number : "))
-# while k>= 1 :
-#     print(k)
-#     k-= 1
+k = int(input("Enter the number : "))
+while k>= 1 :
+    print(k)
+    k-= 1
 
