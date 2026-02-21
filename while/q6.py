@@ -6,4 +6,4 @@ while index<len(word):
     if word[index].lower() not in vowels and word[index].isalpha:
         count+=1
     index+=1
-print("number is consonent is ",count)~
+print("number is consonent is ",count)

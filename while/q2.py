@@ -4,3 +4,4 @@ while(i<=15):
     print(i**3,end=" ")
     i+=1
 
+
